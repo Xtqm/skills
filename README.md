@@ -8,10 +8,10 @@ An agent skill specifically for Vercel's new AI Agent Framework, Eve.
 ### Install
 
 ```bash
-npx skills add theqmechanic/skills --skill vercel-eve-framework
+npx skills add xtqm/skills --skill vercel-eve-framework
 ```
 
 Or with a specific agent:
 ```bash
-npx skills add theqmechanic/skills --skill vercel-eve-framework -a claude-code
+npx skills add xtqm/skills --skill vercel-eve-framework -a claude-code
 ```
